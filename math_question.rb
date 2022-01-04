@@ -14,4 +14,4 @@ class Math_Question
     def answer(answer)
         answer == @answer
     end
-end
+end 
